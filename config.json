@@ -1,0 +1,10 @@
+{
+  "query": "deck:日本語::単語",
+  "field_to_check": "",
+  "image_field": "Image",
+  "image_links": {
+    "また、同じ夢を見ていた": "https://m.media-amazon.com/images/I/5168HOJnx7L._SL500_.jpg",
+    "化物語(上)": "https://m.media-amazon.com/images/I/51lbTD0MTiL._SL500_.jpg"
+  },
+  "run_at_sync": false
+}

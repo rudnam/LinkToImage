@@ -1,8 +1,4 @@
-# Link to Image
-
-Anki addon to generate images for notes given image links/urls.
-
-### Config
+## Link to Image
 
 - `query` - Anki query to narrow down which cards to include in the search, e.g. `deck:日本語::単語` or `note:Mining-JP`.
 
